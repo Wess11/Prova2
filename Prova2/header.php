@@ -7,7 +7,6 @@
 	<meta name="Resource-type" content="document">
 	<title>W. Esportes</title>
 	
-	<!-- Favicon -->
 	<link href="assets/img/trofeu.png" rel="shortcut icon" type="image/x-icon">
 
 	<!-- Bootstrap -->
