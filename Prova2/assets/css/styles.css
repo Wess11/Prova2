@@ -1,0 +1,25 @@
+/* CSS */
+body {
+	background-color: #4169E1;
+}
+
+main {
+	padding: 2em 0;
+}
+
+.area {
+	width: 100%;
+	padding: 1em 0;
+}
+
+.form-group {
+	margin: 1em 0;
+}
+
+.botoes {
+	text-align: right;
+}
+
+footer {
+	text-align: center;
+}
