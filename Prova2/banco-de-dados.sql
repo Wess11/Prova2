@@ -5,5 +5,6 @@ CREATE TABLE 'tbdtimes' (
   'nome' varchar(200) NOT NULL,
   'esporte' varchar(200) NOT NULL,
   'participantes' text NOT NULL,
+  'genero' varchar(25) NOT null,
   PRIMARY KEY ('id')
 ) ENGINE=InnoDB  DEFAULT CHARSET=UTF8 AUTO_INCREMENT=2;
